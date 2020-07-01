@@ -20,3 +20,8 @@
 ###### 1. This uses Haarcascade models for some kind of detections of face parts.
 ###### 2. Using OpenCV for streaming video or footage.
 ###### 3. Gives real-time results.
+
+#### Requirements:
+###### 1. All the Haarcascade's Model as given in this repository.
+###### 2. Python3
+###### 3. OpenCV installed.  ####### for installation --> pip install opencv
