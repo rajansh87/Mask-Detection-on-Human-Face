@@ -25,4 +25,4 @@
 ###### 1. All the Haarcascade's Model as given in this repository.
 ###### 2. Python3
 ###### 3. OpenCV installed.  
-#######         for installation --> pip install opencv
+######        for installation --> pip install opencv
