@@ -12,7 +12,7 @@ The study also found that up to 45% of the deaths projected in New York over the
 “It will be another 12 to 18 months until mass vaccination or herd immunity finally becomes a reality. In the meanwhile, we need to start respecting the mask, change our behaviour and start getting used to this new face accessory on an immediate basis,” said Dr Sundeep Salvi, vice-president of the Indian Chest Society and member of several task forces and committees appointed by central and Maharashtra governments to help tackle the pandemic.
 
 
-##### So for forcing people to wear masks in public areas my this model could play a vital role. 
+###### So for forcing people to wear masks in public areas my this model could play a vital role. 
 ##### Idea:
 We can put CCTV cameras at the entrance gates of public places like malls, shops, etc, and then using my model we can create a automated system that only allows person wearing mask. WHich could really bring a huge change in current pandemic situation due to COVID-19.
 
