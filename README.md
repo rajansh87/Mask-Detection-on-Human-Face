@@ -26,3 +26,4 @@
 ###### 2. Python3
 ###### 3. OpenCV installed.  
 ######        for installation --> pip install opencv
+##### Recommended : Work in Anaconda Jupyter Notebook.  
