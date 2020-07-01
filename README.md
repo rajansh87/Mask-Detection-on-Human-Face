@@ -14,7 +14,7 @@
 
 ##### So for forcing people to wear masks in public areas my this model could play a vital role. 
 #### Idea:
-We can put CCTV cameras at the entrance gates of public places like malls, shops, etc, and then using my model we can create a automated system that only allows person wearing mask. WHich could really bring a huge change in current pandemic situation due to COVID-19.
+##### We can put CCTV cameras at the entrance gates of public places like malls, shops, etc, and then using my model we can create a automated system that only allows person wearing mask. WHich could really bring a huge change in current pandemic situation due to COVID-19.
 
 #### About the Project:
 ###### 1. This uses Haarcascade models for some kind of detections of face parts.
