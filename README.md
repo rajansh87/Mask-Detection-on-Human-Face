@@ -22,7 +22,7 @@
 ###### 3. Gives real-time results.
 
 #### Requirements:
-###### 1. All the Haarcascade's Model as given in this repository.
+###### 1. All the Haarcascade's Model as mentioned in this repository.
 ###### 2. Python3
 ###### 3. OpenCV installed.  
 ######        for installation --> pip install opencv
